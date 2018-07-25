@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = C:/Users/b_pat/Desktop/BreadCrumb_Project/BreadCrumb/bcapp/packages/server
